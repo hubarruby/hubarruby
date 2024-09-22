@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harrison Gietz (https://www.linkedin.com/in/harrison-gietz-24ab191b5/)
-- 👀 I'm soon to graduate (May 2024) with a B.S. in Math from Louisiana State University. I have interests in Probability/Stats, ML, NLP, and Data Science.
+- 👀 I hold a B.S. in Mathematics (summa cum laude) from Louisiana State University. I have interests in Probability/Stats, ML, NLP, and Data Science.
 - 📫 Contact: harrygietz@gmail.com
 
 <!---
