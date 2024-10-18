@@ -1,5 +1,5 @@
 - Visit my website here: https://hubarruby.github.io/
-- I’m Harrison Gietz (https://www.linkedin.com/in/harrison-gietz-24ab191b5/)
+- I’m Harrison Gietz ([Linkedin](https://www.linkedin.com/in/harrison-gietz-%F0%9F%94%B8-24ab191b5/)
 - I hold a B.S. in Mathematics (summa cum laude) from Louisiana State University. I have interests in Probability/Stats, ML, NLP, and Data Science.
 - 📫 Contact: harrygietz@gmail.com
 
